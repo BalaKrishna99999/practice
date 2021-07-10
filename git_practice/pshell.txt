@@ -1,1 +1,1 @@
-powershell command for computer name is :comutername 
+powershell command for computer name is :$env:comutername 
