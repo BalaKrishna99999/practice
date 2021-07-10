@@ -1,0 +1,1 @@
+powershell command for computer name is :comutername 
